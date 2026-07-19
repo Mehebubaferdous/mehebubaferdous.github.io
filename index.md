@@ -1,7 +1,10 @@
-# Mehebuba Ferdous
+---
+layout: default
+title: Mehebuba Ferdous
+---
 
 <img src="https://auber.org/wp-content/uploads/2024/05/UNT-northtexas_cover.jpg"
-     alt="University of North Texas"
+     alt="University of North Texas Campus"
      width="100%">
 
 # Mehebuba Ferdous
@@ -13,86 +16,26 @@
 
 ## About Me
 
-Welcome to my academic website.
-
-I am an M.S. student in Economics at the [University of North Texas](https://www.unt.edu/) with research interests in labor economics, immigration, artificial intelligence, and quantitative social science.
-
-My work focuses on understanding how technological change influences labor markets, workforce composition, and socioeconomic outcomes using applied econometric methods and large-scale data.
-
----
+## Education
 
 ## Research Interests
 
-<p align="center">
-<img src="images/economics.jpg" width="700">
-</p>
+## Research Projects
 
-My primary research interests include:
+## Publications
 
-- Labor Economics
-- Immigration Economics
-- Artificial Intelligence and Labor Markets
-- Applied Econometrics
-- Quantitative Social Science
-- Economic Inequality
-- Public Policy
+## Conference Presentations
 
----
+## Research Experience
 
-## Education
+## Teaching Experience
 
-### University of North Texas
-
-**Master of Science in Economics**
-
-Current Graduate Student
-
----
+## Awards and Honors
 
 ## Research Skills
 
-- Applied Econometrics
-- Regression Analysis
-- Panel Data Econometrics
-- Causal Inference
-- Statistical Analysis
-- Quantitative Research Methods
-- Data Visualization
-- Economic Data Analysis
-
----
-
-## Future Research
-
-My long-term research interests include:
-
-- Artificial Intelligence and Employment
-- Skilled Immigration
-- Technology Adoption
-- Workforce Development
-- Economic Inequality
-- Social Mobility
-- Public Policy Evaluation
-
----
-
-## Current Research Project
-
-
----
-
-## CV
-
-📄 Curriculum Vitae
-
-*Available soon.*
-
----
+## Curriculum Vitae
 
 ## Contact
 
-**GitHub**  
-https://github.com/Mehebubaferdous
-
-**Department of Economics**  
-https://economics.unt.edu/
+[GitHub](https://github.com/Mehebubaferdous)
