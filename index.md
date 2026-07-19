@@ -1,5 +1,8 @@
 # Mehebuba Ferdous
 
+<img src="images/profile.jpg" alt="Profile Photo" width="220">
+![University of North Texas Campus](images/unt-campus.jpg)
+
 **M.S. Student in Economics**  
 University of North Texas
 
