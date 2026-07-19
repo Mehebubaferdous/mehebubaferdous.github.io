@@ -1,9 +1,5 @@
 # Mehebuba Ferdous
 
-<img src="images/profile.jpg" alt="Profile Photo" width="220">
-![University of North Texas Campus](images/unt-campus.jpg)
-
-
 <img src="https://auber.org/wp-content/uploads/2024/05/UNT-northtexas_cover.jpg"
      alt="University of North Texas Campus"
      width="800">
