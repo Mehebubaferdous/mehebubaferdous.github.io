@@ -16,7 +16,8 @@ description: M.S. Student in Economics | University of North Texas
 
 ## Research Interests
 
-## Current Research
+## Courses
+<embed type="text/html" src="img/boulder_plot.html" width="600" height="600">
 
 ## Research Projects
 
